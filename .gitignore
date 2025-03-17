@@ -2,3 +2,4 @@
 *.parquet
 cache/
 *.lance
+logs/
